@@ -1,253 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">club - Bandcamp Tag</title>
-  <link rel="alternate" type="text/html" href="https://bandcamp.com/tag/club?sort_field=date"/>
-  <link rel="self" type="application/atom+xml" href="http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=club&amp;format=Atom"/>
-  <icon>https://s4.bcbits.com/img/bc_favicon.ico</icon>
-  <logo>https://s4.bcbits.com/img/bc_favicon.ico</logo>
-  <id>http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=club&amp;format=Atom</id>
-  <updated>2025-07-01T13:52:04+00:00</updated>
-  <author>
-    <name>RSS-Bridge</name>
-  </author>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://bandcamp.com/tag/club</id>
+  <title>Bandcamp – club (latest)</title>
+  <updated>2025-07-01T14:29:53.002896+00:00</updated>
+  <link href="https://bandcamp.com/tag/club" rel="alternate"/>
+  <generator>GitHub Actions + feedgen</generator>
+  <subtitle>Newest Bandcamp releases for “club”</subtitle>
   <entry>
-    <title type="html">wøunds - what it means to be a body</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://woundsmusic.bandcamp.com/album/what-it-means-to-be-a-body</id>
-    <link rel="alternate" type="text/html" href="https://woundsmusic.bandcamp.com/album/what-it-means-to-be-a-body"/>
-    <author>
-      <name>wøunds</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1073177978_23.jpg' /&gt;&lt;br/&gt;wøunds - what it means to be a body</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1073177978_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Lamsi - KOTI 2</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://lamsi.bandcamp.com/album/koti-2</id>
-    <link rel="alternate" type="text/html" href="https://lamsi.bandcamp.com/album/koti-2"/>
-    <author>
-      <name>Lamsi</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3794001396_23.jpg' /&gt;&lt;br/&gt;Lamsi - KOTI 2</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3794001396_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">V/A - Renegade Science (254 Science and Research)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://254scienceandresearch.bandcamp.com/album/renegade-science</id>
-    <link rel="alternate" type="text/html" href="https://254scienceandresearch.bandcamp.com/album/renegade-science"/>
-    <author>
-      <name>V/A (254 Science and Research)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3449499818_23.jpg' /&gt;&lt;br/&gt;V/A - Renegade Science (254 Science and Research)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3449499818_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">LCD - Liquid Crystals (LCD Records)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://lcdrecords.bandcamp.com/album/liquid-crystals</id>
-    <link rel="alternate" type="text/html" href="https://lcdrecords.bandcamp.com/album/liquid-crystals"/>
-    <author>
-      <name>LCD (LCD Records)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a674530422_23.jpg' /&gt;&lt;br/&gt;LCD - Liquid Crystals (LCD Records)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a674530422_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Fat Baby - Fat Baby (Ian King)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://iankings.bandcamp.com/album/fat-baby</id>
-    <link rel="alternate" type="text/html" href="https://iankings.bandcamp.com/album/fat-baby"/>
-    <author>
-      <name>Fat Baby (Ian King)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1379000291_23.jpg' /&gt;&lt;br/&gt;Fat Baby - Fat Baby (Ian King)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1379000291_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Chilled Study - Corner Cafe (Good Karma Records Label)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://goodkarmarecords.bandcamp.com/album/corner-cafe</id>
-    <link rel="alternate" type="text/html" href="https://goodkarmarecords.bandcamp.com/album/corner-cafe"/>
-    <author>
-      <name>Chilled Study (Good Karma Records Label)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3885496699_23.jpg' /&gt;&lt;br/&gt;Chilled Study - Corner Cafe (Good Karma Records Label)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3885496699_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Chilled Study - Smooth Operator (Good Karma Records Label)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://goodkarmarecords.bandcamp.com/album/smooth-operator</id>
-    <link rel="alternate" type="text/html" href="https://goodkarmarecords.bandcamp.com/album/smooth-operator"/>
-    <author>
-      <name>Chilled Study (Good Karma Records Label)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1726686861_23.jpg' /&gt;&lt;br/&gt;Chilled Study - Smooth Operator (Good Karma Records Label)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1726686861_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Chilled Study - Slow Motion Days (Good Karma Records Label)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://goodkarmarecords.bandcamp.com/album/slow-motion-days</id>
-    <link rel="alternate" type="text/html" href="https://goodkarmarecords.bandcamp.com/album/slow-motion-days"/>
-    <author>
-      <name>Chilled Study (Good Karma Records Label)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a177729698_23.jpg' /&gt;&lt;br/&gt;Chilled Study - Slow Motion Days (Good Karma Records Label)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a177729698_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Brianna Paon - Hot Mess / Incubator [BMR-004]</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004</id>
-    <link rel="alternate" type="text/html" href="https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004"/>
-    <author>
-      <name>Brianna Paon</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2461039313_23.jpg' /&gt;&lt;br/&gt;Brianna Paon - Hot Mess / Incubator [BMR-004]</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2461039313_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Arma - Arma Edits Vol. 8</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://armasounds.bandcamp.com/album/arma-edits-vol-8</id>
-    <link rel="alternate" type="text/html" href="https://armasounds.bandcamp.com/album/arma-edits-vol-8"/>
-    <author>
-      <name>Arma</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1650161406_23.jpg' /&gt;&lt;br/&gt;Arma - Arma Edits Vol. 8</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1650161406_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Plastic No More - Plastic Trash (Good Karma Records Label)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://goodkarmarecords.bandcamp.com/album/plastic-trash</id>
-    <link rel="alternate" type="text/html" href="https://goodkarmarecords.bandcamp.com/album/plastic-trash"/>
-    <author>
-      <name>Plastic No More (Good Karma Records Label)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a911552492_23.jpg' /&gt;&lt;br/&gt;Plastic No More - Plastic Trash (Good Karma Records Label)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a911552492_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">puurvuur - puurvault (2020-2023)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://puurvuur.bandcamp.com/album/puurvault-2020-2023</id>
-    <link rel="alternate" type="text/html" href="https://puurvuur.bandcamp.com/album/puurvault-2020-2023"/>
-    <author>
-      <name>puurvuur</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1112894168_23.jpg' /&gt;&lt;br/&gt;puurvuur - puurvault (2020-2023)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1112894168_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">808 Heartbeats - Built on Love (Good Karma Records Label)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://goodkarmarecords.bandcamp.com/album/built-on-love</id>
-    <link rel="alternate" type="text/html" href="https://goodkarmarecords.bandcamp.com/album/built-on-love"/>
-    <author>
-      <name>808 Heartbeats (Good Karma Records Label)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a793730194_23.jpg' /&gt;&lt;br/&gt;808 Heartbeats - Built on Love (Good Karma Records Label)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a793730194_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">apparentlyShane - SOME BOOTLEGS</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://apparentlyshane.bandcamp.com/album/some-bootlegs</id>
-    <link rel="alternate" type="text/html" href="https://apparentlyshane.bandcamp.com/album/some-bootlegs"/>
-    <author>
-      <name>apparentlyShane</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3727783899_23.jpg' /&gt;&lt;br/&gt;apparentlyShane - SOME BOOTLEGS</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3727783899_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Navechno - Summer Spirit [SOV504] (Soviett Records)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://soviett.bandcamp.com/album/summer-spirit-sov504</id>
-    <link rel="alternate" type="text/html" href="https://soviett.bandcamp.com/album/summer-spirit-sov504"/>
-    <author>
-      <name>Navechno (Soviett Records)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1001272540_23.jpg' /&gt;&lt;br/&gt;Navechno - Summer Spirit [SOV504] (Soviett Records)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1001272540_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Andy Malex - Dance Machine 2000 (Digital Coma Network)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://digitalcomanetwork.bandcamp.com/album/dance-machine-2000-2</id>
-    <link rel="alternate" type="text/html" href="https://digitalcomanetwork.bandcamp.com/album/dance-machine-2000-2"/>
-    <author>
-      <name>Andy Malex (Digital Coma Network)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1170767651_23.jpg' /&gt;&lt;br/&gt;Andy Malex - Dance Machine 2000 (Digital Coma Network)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1170767651_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">CAPP STREET PROJECT - VOL. 5.5 [FREE DL]</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://cappstreetproject.bandcamp.com/album/vol-55-free-dl</id>
-    <link rel="alternate" type="text/html" href="https://cappstreetproject.bandcamp.com/album/vol-55-free-dl"/>
-    <author>
-      <name>CAPP STREET PROJECT</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a573980651_23.jpg' /&gt;&lt;br/&gt;CAPP STREET PROJECT - VOL. 5.5 [FREE DL]</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a573980651_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Chilled Study - Chillhop Dreams (Good Karma Records Label)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://goodkarmarecords.bandcamp.com/album/chillhop-dreams</id>
-    <link rel="alternate" type="text/html" href="https://goodkarmarecords.bandcamp.com/album/chillhop-dreams"/>
-    <author>
-      <name>Chilled Study (Good Karma Records Label)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2601966612_23.jpg' /&gt;&lt;br/&gt;Chilled Study - Chillhop Dreams (Good Karma Records Label)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2601966612_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Chilled Study - Imagination (Good Karma Records Label)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
-    <id>https://goodkarmarecords.bandcamp.com/album/imagination</id>
-    <link rel="alternate" type="text/html" href="https://goodkarmarecords.bandcamp.com/album/imagination"/>
-    <author>
-      <name>Chilled Study (Good Karma Records Label)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1625829633_23.jpg' /&gt;&lt;br/&gt;Chilled Study - Imagination (Good Karma Records Label)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1625829633_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">canary yellow, QRTR, sattalite - JOINT FUNCTION [VOL. 002] (JOINT FUNCTION)</title>
-    <published>2025-07-01T13:52:04+00:00</published>
-    <updated>2025-07-01T13:52:04+00:00</updated>
     <id>https://jointfunction.bandcamp.com/album/joint-function-vol-002</id>
-    <link rel="alternate" type="text/html" href="https://jointfunction.bandcamp.com/album/joint-function-vol-002"/>
+    <title>canary yellow, QRTR, sattalite - JOINT FUNCTION [VOL. 002] (JOINT FUNCTION)</title>
+    <updated>2025-07-01T14:30:03.832734+00:00</updated>
     <author>
       <name>canary yellow, QRTR, sattalite (JOINT FUNCTION)</name>
     </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1260376776_23.jpg' /&gt;&lt;br/&gt;canary yellow, QRTR, sattalite - JOINT FUNCTION [VOL. 002] (JOINT FUNCTION)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1260376776_16.jpg"/>
+    <content type="CDATA"><![CDATA[<a href="https://jointfunction.bandcamp.com/album/joint-function-vol-002"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://jointfunction.bandcamp.com/album/joint-function-vol-002"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodkarmarecords.bandcamp.com/album/imagination</id>
+    <title>Chilled Study - Imagination (Good Karma Records Label)</title>
+    <updated>2025-07-01T14:30:03.229304+00:00</updated>
+    <author>
+      <name>Chilled Study (Good Karma Records Label)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://goodkarmarecords.bandcamp.com/album/imagination"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://goodkarmarecords.bandcamp.com/album/imagination"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodkarmarecords.bandcamp.com/album/chillhop-dreams</id>
+    <title>Chilled Study - Chillhop Dreams (Good Karma Records Label)</title>
+    <updated>2025-07-01T14:30:02.707729+00:00</updated>
+    <author>
+      <name>Chilled Study (Good Karma Records Label)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://goodkarmarecords.bandcamp.com/album/chillhop-dreams"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://goodkarmarecords.bandcamp.com/album/chillhop-dreams"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://cappstreetproject.bandcamp.com/album/vol-55-free-dl</id>
+    <title>CAPP STREET PROJECT - VOL. 5.5 [FREE DL]</title>
+    <updated>2025-07-01T14:30:02.193983+00:00</updated>
+    <author>
+      <name>CAPP STREET PROJECT</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://cappstreetproject.bandcamp.com/album/vol-55-free-dl"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://cappstreetproject.bandcamp.com/album/vol-55-free-dl"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://digitalcomanetwork.bandcamp.com/album/dance-machine-2000-2</id>
+    <title>Andy Malex - Dance Machine 2000 (Digital Coma Network)</title>
+    <updated>2025-07-01T14:30:01.669844+00:00</updated>
+    <author>
+      <name>Andy Malex (Digital Coma Network)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://digitalcomanetwork.bandcamp.com/album/dance-machine-2000-2"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://digitalcomanetwork.bandcamp.com/album/dance-machine-2000-2"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://soviett.bandcamp.com/album/summer-spirit-sov504</id>
+    <title>Navechno - Summer Spirit [SOV504] (Soviett Records)</title>
+    <updated>2025-07-01T14:30:01.095218+00:00</updated>
+    <author>
+      <name>Navechno (Soviett Records)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://soviett.bandcamp.com/album/summer-spirit-sov504"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://soviett.bandcamp.com/album/summer-spirit-sov504"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apparentlyshane.bandcamp.com/album/some-bootlegs</id>
+    <title>apparentlyShane - SOME BOOTLEGS</title>
+    <updated>2025-07-01T14:30:00.491903+00:00</updated>
+    <author>
+      <name>apparentlyShane</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://apparentlyshane.bandcamp.com/album/some-bootlegs"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://apparentlyshane.bandcamp.com/album/some-bootlegs"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodkarmarecords.bandcamp.com/album/built-on-love</id>
+    <title>808 Heartbeats - Built on Love (Good Karma Records Label)</title>
+    <updated>2025-07-01T14:29:59.961625+00:00</updated>
+    <author>
+      <name>808 Heartbeats (Good Karma Records Label)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://goodkarmarecords.bandcamp.com/album/built-on-love"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://goodkarmarecords.bandcamp.com/album/built-on-love"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://puurvuur.bandcamp.com/album/puurvault-2020-2023</id>
+    <title>puurvuur - puurvault (2020-2023)</title>
+    <updated>2025-07-01T14:29:59.443519+00:00</updated>
+    <author>
+      <name>puurvuur</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://puurvuur.bandcamp.com/album/puurvault-2020-2023"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://puurvuur.bandcamp.com/album/puurvault-2020-2023"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodkarmarecords.bandcamp.com/album/plastic-trash</id>
+    <title>Plastic No More - Plastic Trash (Good Karma Records Label)</title>
+    <updated>2025-07-01T14:29:58.837922+00:00</updated>
+    <author>
+      <name>Plastic No More (Good Karma Records Label)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://goodkarmarecords.bandcamp.com/album/plastic-trash"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://goodkarmarecords.bandcamp.com/album/plastic-trash"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://armasounds.bandcamp.com/album/arma-edits-vol-8</id>
+    <title>Arma - Arma Edits Vol. 8</title>
+    <updated>2025-07-01T14:29:58.225664+00:00</updated>
+    <author>
+      <name>Arma</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://armasounds.bandcamp.com/album/arma-edits-vol-8"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://armasounds.bandcamp.com/album/arma-edits-vol-8"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004</id>
+    <title>Brianna Paon - Hot Mess / Incubator [BMR-004]</title>
+    <updated>2025-07-01T14:29:57.653074+00:00</updated>
+    <author>
+      <name>Brianna Paon</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodkarmarecords.bandcamp.com/album/slow-motion-days</id>
+    <title>Chilled Study - Slow Motion Days (Good Karma Records Label)</title>
+    <updated>2025-07-01T14:29:57.067333+00:00</updated>
+    <author>
+      <name>Chilled Study (Good Karma Records Label)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://goodkarmarecords.bandcamp.com/album/slow-motion-days"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://goodkarmarecords.bandcamp.com/album/slow-motion-days"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodkarmarecords.bandcamp.com/album/smooth-operator</id>
+    <title>Chilled Study - Smooth Operator (Good Karma Records Label)</title>
+    <updated>2025-07-01T14:29:56.489298+00:00</updated>
+    <author>
+      <name>Chilled Study (Good Karma Records Label)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://goodkarmarecords.bandcamp.com/album/smooth-operator"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://goodkarmarecords.bandcamp.com/album/smooth-operator"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://goodkarmarecords.bandcamp.com/album/corner-cafe</id>
+    <title>Chilled Study - Corner Cafe (Good Karma Records Label)</title>
+    <updated>2025-07-01T14:29:55.879269+00:00</updated>
+    <author>
+      <name>Chilled Study (Good Karma Records Label)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://goodkarmarecords.bandcamp.com/album/corner-cafe"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://goodkarmarecords.bandcamp.com/album/corner-cafe"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://iankings.bandcamp.com/album/fat-baby</id>
+    <title>Fat Baby - Fat Baby (Ian King)</title>
+    <updated>2025-07-01T14:29:55.304855+00:00</updated>
+    <author>
+      <name>Fat Baby (Ian King)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://iankings.bandcamp.com/album/fat-baby"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://iankings.bandcamp.com/album/fat-baby"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://lcdrecords.bandcamp.com/album/liquid-crystals</id>
+    <title>LCD - Liquid Crystals (LCD Records)</title>
+    <updated>2025-07-01T14:29:54.733037+00:00</updated>
+    <author>
+      <name>LCD (LCD Records)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://lcdrecords.bandcamp.com/album/liquid-crystals"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://lcdrecords.bandcamp.com/album/liquid-crystals"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://254scienceandresearch.bandcamp.com/album/renegade-science</id>
+    <title>V/A - Renegade Science (254 Science and Research)</title>
+    <updated>2025-07-01T14:29:54.165968+00:00</updated>
+    <author>
+      <name>V/A (254 Science and Research)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://254scienceandresearch.bandcamp.com/album/renegade-science"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://254scienceandresearch.bandcamp.com/album/renegade-science"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://lamsi.bandcamp.com/album/koti-2</id>
+    <title>Lamsi - KOTI 2</title>
+    <updated>2025-07-01T14:29:53.598204+00:00</updated>
+    <author>
+      <name>Lamsi</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://lamsi.bandcamp.com/album/koti-2"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://lamsi.bandcamp.com/album/koti-2"/>
+    <published>2025-07-01T14:29:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://woundsmusic.bandcamp.com/album/what-it-means-to-be-a-body</id>
+    <title>wøunds - what it means to be a body</title>
+    <updated>2025-07-01T14:29:53.028483+00:00</updated>
+    <author>
+      <name>wøunds</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://woundsmusic.bandcamp.com/album/what-it-means-to-be-a-body"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://woundsmusic.bandcamp.com/album/what-it-means-to-be-a-body"/>
+    <published>2025-07-01T14:29:52+00:00</published>
   </entry>
 </feed>

@@ -1,253 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">uk-bass - Bandcamp Tag</title>
-  <link rel="alternate" type="text/html" href="https://bandcamp.com/tag/uk-bass?sort_field=date"/>
-  <link rel="self" type="application/atom+xml" href="http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=uk-bass&amp;format=Atom"/>
-  <icon>https://s4.bcbits.com/img/bc_favicon.ico</icon>
-  <logo>https://s4.bcbits.com/img/bc_favicon.ico</logo>
-  <id>http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=uk-bass&amp;format=Atom</id>
-  <updated>2025-07-01T13:51:59+00:00</updated>
-  <author>
-    <name>RSS-Bridge</name>
-  </author>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://bandcamp.com/tag/uk-bass</id>
+  <title>Bandcamp – uk-bass (latest)</title>
+  <updated>2025-07-01T14:29:25.068648+00:00</updated>
+  <link href="https://bandcamp.com/tag/uk-bass" rel="alternate"/>
+  <generator>GitHub Actions + feedgen</generator>
+  <subtitle>Newest Bandcamp releases for “uk-bass”</subtitle>
   <entry>
-    <title type="html">Heyoka - Vol. 2</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://heyokaukg.bandcamp.com/album/vol-2-3</id>
-    <link rel="alternate" type="text/html" href="https://heyokaukg.bandcamp.com/album/vol-2-3"/>
-    <author>
-      <name>Heyoka</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a771992159_23.jpg' /&gt;&lt;br/&gt;Heyoka - Vol. 2</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a771992159_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Mak &amp; Pasteman - UFOz EP (MIDAS001)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://makandpasteman.bandcamp.com/album/ufoz-ep-midas001</id>
-    <link rel="alternate" type="text/html" href="https://makandpasteman.bandcamp.com/album/ufoz-ep-midas001"/>
-    <author>
-      <name>Mak &amp; Pasteman</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2396563467_23.jpg' /&gt;&lt;br/&gt;Mak &amp; Pasteman - UFOz EP (MIDAS001)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2396563467_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">DJ Spookz  - uk funky package</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://djspookz.bandcamp.com/album/uk-funky-package</id>
-    <link rel="alternate" type="text/html" href="https://djspookz.bandcamp.com/album/uk-funky-package"/>
-    <author>
-      <name>DJ Spookz </name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2619618_23.jpg' /&gt;&lt;br/&gt;DJ Spookz  - uk funky package</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2619618_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Markee Ledge - Reality</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://markeeledge.bandcamp.com/album/reality</id>
-    <link rel="alternate" type="text/html" href="https://markeeledge.bandcamp.com/album/reality"/>
-    <author>
-      <name>Markee Ledge</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1853231391_23.jpg' /&gt;&lt;br/&gt;Markee Ledge - Reality</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1853231391_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Actual - Why Can't I Stop Making Tech House / Tommy Coded Psy</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy</id>
-    <link rel="alternate" type="text/html" href="https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy"/>
+    <id>https://actualmusic.bandcamp.com/album/snare-track-keys</id>
+    <title>Actual - Snare Track / Keys</title>
+    <updated>2025-07-01T14:29:36.005809+00:00</updated>
     <author>
       <name>Actual</name>
     </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1141344129_23.jpg' /&gt;&lt;br/&gt;Actual - Why Can't I Stop Making Tech House / Tommy Coded Psy</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1141344129_16.jpg"/>
+    <content type="CDATA"><![CDATA[<a href="https://actualmusic.bandcamp.com/album/snare-track-keys"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://actualmusic.bandcamp.com/album/snare-track-keys"/>
+    <published>2025-07-01T14:29:24+00:00</published>
   </entry>
   <entry>
-    <title type="html">Bodhi - T.O.P.</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://wearebodhi.bandcamp.com/album/t-o-p</id>
-    <link rel="alternate" type="text/html" href="https://wearebodhi.bandcamp.com/album/t-o-p"/>
-    <author>
-      <name>Bodhi</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3964321105_23.jpg' /&gt;&lt;br/&gt;Bodhi - T.O.P.</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3964321105_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">A-51 - [2025] (Nomee Sound Calendar)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://nomee-sound-calendar.bandcamp.com/album/2025</id>
-    <link rel="alternate" type="text/html" href="https://nomee-sound-calendar.bandcamp.com/album/2025"/>
-    <author>
-      <name>A-51 (Nomee Sound Calendar)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2059279843_23.jpg' /&gt;&lt;br/&gt;A-51 - [2025] (Nomee Sound Calendar)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2059279843_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Galactivators, Narkatta - Soaring EP (Galactivators)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://galactivators.bandcamp.com/album/soaring-ep</id>
-    <link rel="alternate" type="text/html" href="https://galactivators.bandcamp.com/album/soaring-ep"/>
-    <author>
-      <name>Galactivators, Narkatta (Galactivators)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1901218750_23.jpg' /&gt;&lt;br/&gt;Galactivators, Narkatta - Soaring EP (Galactivators)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1901218750_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Prognostiq - Smorodina [MN²191] (MONUMENTAL NETLABEL)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://mnmn-rec.bandcamp.com/album/smorodina-mn-191</id>
-    <link rel="alternate" type="text/html" href="https://mnmn-rec.bandcamp.com/album/smorodina-mn-191"/>
-    <author>
-      <name>Prognostiq (MONUMENTAL NETLABEL)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1810261048_23.jpg' /&gt;&lt;br/&gt;Prognostiq - Smorodina [MN²191] (MONUMENTAL NETLABEL)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1810261048_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">The Pattern Sound - Shade Time (Triple Seven Recordings)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://triple7recordings.bandcamp.com/album/shade-time</id>
-    <link rel="alternate" type="text/html" href="https://triple7recordings.bandcamp.com/album/shade-time"/>
-    <author>
-      <name>The Pattern Sound (Triple Seven Recordings)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3340841306_23.jpg' /&gt;&lt;br/&gt;The Pattern Sound - Shade Time (Triple Seven Recordings)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3340841306_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Khaine - Drusus (ONE7AUDIO)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://one7audio.bandcamp.com/album/drusus</id>
-    <link rel="alternate" type="text/html" href="https://one7audio.bandcamp.com/album/drusus"/>
-    <author>
-      <name>Khaine (ONE7AUDIO)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a243767468_23.jpg' /&gt;&lt;br/&gt;Khaine - Drusus (ONE7AUDIO)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a243767468_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Hg - Mercury (Life Without Mirrors)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://lifewithoutmirrors.bandcamp.com/album/mercury</id>
-    <link rel="alternate" type="text/html" href="https://lifewithoutmirrors.bandcamp.com/album/mercury"/>
-    <author>
-      <name>Hg (Life Without Mirrors)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1769965931_23.jpg' /&gt;&lt;br/&gt;Hg - Mercury (Life Without Mirrors)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1769965931_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Various Artists - Visions (Fortune Signal)</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://fortunesignal.bandcamp.com/album/visions</id>
-    <link rel="alternate" type="text/html" href="https://fortunesignal.bandcamp.com/album/visions"/>
-    <author>
-      <name>Various Artists (Fortune Signal)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2217573722_23.jpg' /&gt;&lt;br/&gt;Various Artists - Visions (Fortune Signal)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2217573722_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Actual - Or, However / Fade</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://actualmusic.bandcamp.com/album/or-however-fade</id>
-    <link rel="alternate" type="text/html" href="https://actualmusic.bandcamp.com/album/or-however-fade"/>
-    <author>
-      <name>Actual</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2827563084_23.jpg' /&gt;&lt;br/&gt;Actual - Or, However / Fade</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2827563084_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Mitch Koobski - Interstitial Defects</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://mitchkoobski.bandcamp.com/album/interstitial-defects</id>
-    <link rel="alternate" type="text/html" href="https://mitchkoobski.bandcamp.com/album/interstitial-defects"/>
-    <author>
-      <name>Mitch Koobski</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1322971706_23.jpg' /&gt;&lt;br/&gt;Mitch Koobski - Interstitial Defects</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1322971706_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Serenda - Second Skin</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://serenda.bandcamp.com/album/second-skin</id>
-    <link rel="alternate" type="text/html" href="https://serenda.bandcamp.com/album/second-skin"/>
-    <author>
-      <name>Serenda</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2252409481_23.jpg' /&gt;&lt;br/&gt;Serenda - Second Skin</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2252409481_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Buenobueno Discos - CD - Buenobueno Festival 2025 by PIEK &amp; Rapha Mundi</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://buenobuenodiscos.bandcamp.com/album/cd-buenobueno-festival-2025-by-piek-rapha-mundi</id>
-    <link rel="alternate" type="text/html" href="https://buenobuenodiscos.bandcamp.com/album/cd-buenobueno-festival-2025-by-piek-rapha-mundi"/>
-    <author>
-      <name>Buenobueno Discos</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3198818871_23.jpg' /&gt;&lt;br/&gt;Buenobueno Discos - CD - Buenobueno Festival 2025 by PIEK &amp; Rapha Mundi</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3198818871_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">CLIKK - Unown Cuts II</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://clikk.bandcamp.com/album/unown-cuts-ii</id>
-    <link rel="alternate" type="text/html" href="https://clikk.bandcamp.com/album/unown-cuts-ii"/>
-    <author>
-      <name>CLIKK</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a655963834_23.jpg' /&gt;&lt;br/&gt;CLIKK - Unown Cuts II</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a655963834_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Human Disease Network - HDN043 | AtomK7 - Movements LP</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
     <id>https://humandiseasenetwork.bandcamp.com/album/hdn043-atomk7-movements-lp-2</id>
-    <link rel="alternate" type="text/html" href="https://humandiseasenetwork.bandcamp.com/album/hdn043-atomk7-movements-lp-2"/>
+    <title>Human Disease Network - HDN043 | AtomK7 - Movements LP</title>
+    <updated>2025-07-01T14:29:35.407171+00:00</updated>
     <author>
       <name>Human Disease Network</name>
     </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3740239265_23.jpg' /&gt;&lt;br/&gt;Human Disease Network - HDN043 | AtomK7 - Movements LP</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3740239265_16.jpg"/>
+    <content type="CDATA"><![CDATA[<a href="https://humandiseasenetwork.bandcamp.com/album/hdn043-atomk7-movements-lp-2"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://humandiseasenetwork.bandcamp.com/album/hdn043-atomk7-movements-lp-2"/>
+    <published>2025-07-01T14:29:24+00:00</published>
   </entry>
   <entry>
-    <title type="html">Actual - Snare Track / Keys</title>
-    <published>2025-07-01T13:51:59+00:00</published>
-    <updated>2025-07-01T13:51:59+00:00</updated>
-    <id>https://actualmusic.bandcamp.com/album/snare-track-keys</id>
-    <link rel="alternate" type="text/html" href="https://actualmusic.bandcamp.com/album/snare-track-keys"/>
+    <id>https://clikk.bandcamp.com/album/unown-cuts-ii</id>
+    <title>CLIKK - Unown Cuts II</title>
+    <updated>2025-07-01T14:29:34.881809+00:00</updated>
+    <author>
+      <name>CLIKK</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://clikk.bandcamp.com/album/unown-cuts-ii"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://clikk.bandcamp.com/album/unown-cuts-ii"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://buenobuenodiscos.bandcamp.com/album/cd-buenobueno-festival-2025-by-piek-rapha-mundi</id>
+    <title>Buenobueno Discos - CD - Buenobueno Festival 2025 by PIEK &amp; Rapha Mundi</title>
+    <updated>2025-07-01T14:29:34.305944+00:00</updated>
+    <author>
+      <name>Buenobueno Discos</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://buenobuenodiscos.bandcamp.com/album/cd-buenobueno-festival-2025-by-piek-rapha-mundi"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://buenobuenodiscos.bandcamp.com/album/cd-buenobueno-festival-2025-by-piek-rapha-mundi"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://serenda.bandcamp.com/album/second-skin</id>
+    <title>Serenda - Second Skin</title>
+    <updated>2025-07-01T14:29:33.729918+00:00</updated>
+    <author>
+      <name>Serenda</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://serenda.bandcamp.com/album/second-skin"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://serenda.bandcamp.com/album/second-skin"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://mitchkoobski.bandcamp.com/album/interstitial-defects</id>
+    <title>Mitch Koobski - Interstitial Defects</title>
+    <updated>2025-07-01T14:29:33.200430+00:00</updated>
+    <author>
+      <name>Mitch Koobski</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://mitchkoobski.bandcamp.com/album/interstitial-defects"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://mitchkoobski.bandcamp.com/album/interstitial-defects"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://actualmusic.bandcamp.com/album/or-however-fade</id>
+    <title>Actual - Or, However / Fade</title>
+    <updated>2025-07-01T14:29:32.632719+00:00</updated>
     <author>
       <name>Actual</name>
     </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3152055140_23.jpg' /&gt;&lt;br/&gt;Actual - Snare Track / Keys</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3152055140_16.jpg"/>
+    <content type="CDATA"><![CDATA[<a href="https://actualmusic.bandcamp.com/album/or-however-fade"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://actualmusic.bandcamp.com/album/or-however-fade"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://fortunesignal.bandcamp.com/album/visions</id>
+    <title>Various Artists - Visions (Fortune Signal)</title>
+    <updated>2025-07-01T14:29:32.058323+00:00</updated>
+    <author>
+      <name>Various Artists (Fortune Signal)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://fortunesignal.bandcamp.com/album/visions"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://fortunesignal.bandcamp.com/album/visions"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://lifewithoutmirrors.bandcamp.com/album/mercury</id>
+    <title>Hg - Mercury (Life Without Mirrors)</title>
+    <updated>2025-07-01T14:29:31.535050+00:00</updated>
+    <author>
+      <name>Hg (Life Without Mirrors)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://lifewithoutmirrors.bandcamp.com/album/mercury"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://lifewithoutmirrors.bandcamp.com/album/mercury"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://one7audio.bandcamp.com/album/drusus</id>
+    <title>Khaine - Drusus (ONE7AUDIO)</title>
+    <updated>2025-07-01T14:29:30.957307+00:00</updated>
+    <author>
+      <name>Khaine (ONE7AUDIO)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://one7audio.bandcamp.com/album/drusus"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://one7audio.bandcamp.com/album/drusus"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://triple7recordings.bandcamp.com/album/shade-time</id>
+    <title>The Pattern Sound - Shade Time (Triple Seven Recordings)</title>
+    <updated>2025-07-01T14:29:30.350740+00:00</updated>
+    <author>
+      <name>The Pattern Sound (Triple Seven Recordings)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://triple7recordings.bandcamp.com/album/shade-time"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://triple7recordings.bandcamp.com/album/shade-time"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://mnmn-rec.bandcamp.com/album/smorodina-mn-191</id>
+    <title>Prognostiq - Smorodina [MN²191] (MONUMENTAL NETLABEL)</title>
+    <updated>2025-07-01T14:29:29.821824+00:00</updated>
+    <author>
+      <name>Prognostiq (MONUMENTAL NETLABEL)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://mnmn-rec.bandcamp.com/album/smorodina-mn-191"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://mnmn-rec.bandcamp.com/album/smorodina-mn-191"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://galactivators.bandcamp.com/album/soaring-ep</id>
+    <title>Galactivators, Narkatta - Soaring EP (Galactivators)</title>
+    <updated>2025-07-01T14:29:29.220606+00:00</updated>
+    <author>
+      <name>Galactivators, Narkatta (Galactivators)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://galactivators.bandcamp.com/album/soaring-ep"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://galactivators.bandcamp.com/album/soaring-ep"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://nomee-sound-calendar.bandcamp.com/album/2025</id>
+    <title>A-51 - [2025] (Nomee Sound Calendar)</title>
+    <updated>2025-07-01T14:29:28.652543+00:00</updated>
+    <author>
+      <name>A-51 (Nomee Sound Calendar)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://nomee-sound-calendar.bandcamp.com/album/2025"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://nomee-sound-calendar.bandcamp.com/album/2025"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://wearebodhi.bandcamp.com/album/t-o-p</id>
+    <title>Bodhi - T.O.P.</title>
+    <updated>2025-07-01T14:29:28.024218+00:00</updated>
+    <author>
+      <name>Bodhi</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://wearebodhi.bandcamp.com/album/t-o-p"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://wearebodhi.bandcamp.com/album/t-o-p"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy</id>
+    <title>Actual - Why Can't I Stop Making Tech House / Tommy Coded Psy</title>
+    <updated>2025-07-01T14:29:27.414278+00:00</updated>
+    <author>
+      <name>Actual</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://markeeledge.bandcamp.com/album/reality</id>
+    <title>Markee Ledge - Reality</title>
+    <updated>2025-07-01T14:29:26.880899+00:00</updated>
+    <author>
+      <name>Markee Ledge</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://markeeledge.bandcamp.com/album/reality"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://markeeledge.bandcamp.com/album/reality"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://djspookz.bandcamp.com/album/uk-funky-package</id>
+    <title>DJ Spookz  - uk funky package</title>
+    <updated>2025-07-01T14:29:26.264920+00:00</updated>
+    <author>
+      <name>DJ Spookz</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://djspookz.bandcamp.com/album/uk-funky-package"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://djspookz.bandcamp.com/album/uk-funky-package"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://makandpasteman.bandcamp.com/album/ufoz-ep-midas001</id>
+    <title>Mak &amp; Pasteman - UFOz EP (MIDAS001)</title>
+    <updated>2025-07-01T14:29:25.738588+00:00</updated>
+    <author>
+      <name>Mak &amp; Pasteman</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://makandpasteman.bandcamp.com/album/ufoz-ep-midas001"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://makandpasteman.bandcamp.com/album/ufoz-ep-midas001"/>
+    <published>2025-07-01T14:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://heyokaukg.bandcamp.com/album/vol-2-3</id>
+    <title>Heyoka - Vol. 2</title>
+    <updated>2025-07-01T14:29:25.168358+00:00</updated>
+    <author>
+      <name>Heyoka</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://heyokaukg.bandcamp.com/album/vol-2-3"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://heyokaukg.bandcamp.com/album/vol-2-3"/>
+    <published>2025-07-01T14:29:24+00:00</published>
   </entry>
 </feed>

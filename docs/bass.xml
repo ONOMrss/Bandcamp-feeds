@@ -1,253 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">bass - Bandcamp Tag</title>
-  <link rel="alternate" type="text/html" href="https://bandcamp.com/tag/bass?sort_field=date"/>
-  <link rel="self" type="application/atom+xml" href="http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=bass&amp;format=Atom"/>
-  <icon>https://s4.bcbits.com/img/bc_favicon.ico</icon>
-  <logo>https://s4.bcbits.com/img/bc_favicon.ico</logo>
-  <id>http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=bass&amp;format=Atom</id>
-  <updated>2025-07-01T13:51:56+00:00</updated>
-  <author>
-    <name>RSS-Bridge</name>
-  </author>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://bandcamp.com/tag/bass</id>
+  <title>Bandcamp – bass (latest)</title>
+  <updated>2025-07-01T14:29:10.974119+00:00</updated>
+  <link href="https://bandcamp.com/tag/bass" rel="alternate"/>
+  <generator>GitHub Actions + feedgen</generator>
+  <subtitle>Newest Bandcamp releases for “bass”</subtitle>
   <entry>
-    <title type="html">Synth + Drum - Vibes (Des Greg)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://desgreg.bandcamp.com/album/vibes</id>
-    <link rel="alternate" type="text/html" href="https://desgreg.bandcamp.com/album/vibes"/>
-    <author>
-      <name>Synth + Drum (Des Greg)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2451783182_23.jpg' /&gt;&lt;br/&gt;Synth + Drum - Vibes (Des Greg)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2451783182_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Place - Over</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://placedubs.bandcamp.com/album/over</id>
-    <link rel="alternate" type="text/html" href="https://placedubs.bandcamp.com/album/over"/>
-    <author>
-      <name>Place</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1199214084_23.jpg' /&gt;&lt;br/&gt;Place - Over</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1199214084_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">j.orb - rip jake</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://jdotorb.bandcamp.com/album/rip-jake</id>
-    <link rel="alternate" type="text/html" href="https://jdotorb.bandcamp.com/album/rip-jake"/>
-    <author>
-      <name>j.orb</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2371663555_23.jpg' /&gt;&lt;br/&gt;j.orb - rip jake</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2371663555_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">V/A - Renegade Science (254 Science and Research)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://254scienceandresearch.bandcamp.com/album/renegade-science</id>
-    <link rel="alternate" type="text/html" href="https://254scienceandresearch.bandcamp.com/album/renegade-science"/>
-    <author>
-      <name>V/A (254 Science and Research)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3449499818_23.jpg' /&gt;&lt;br/&gt;V/A - Renegade Science (254 Science and Research)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3449499818_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Molly Ruin - ONSLAUGHT (VolatileSoundscapes)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://volatilesoundscapes.bandcamp.com/album/onslaught</id>
-    <link rel="alternate" type="text/html" href="https://volatilesoundscapes.bandcamp.com/album/onslaught"/>
-    <author>
-      <name>Molly Ruin (VolatileSoundscapes)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2396767886_23.jpg' /&gt;&lt;br/&gt;Molly Ruin - ONSLAUGHT (VolatileSoundscapes)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2396767886_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">SILVER AG - FORGE</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://silverag.bandcamp.com/album/forge</id>
-    <link rel="alternate" type="text/html" href="https://silverag.bandcamp.com/album/forge"/>
-    <author>
-      <name>SILVER AG</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a397608232_23.jpg' /&gt;&lt;br/&gt;SILVER AG - FORGE</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a397608232_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Audible Masticators - String Theory 2 [IND241G] (Inner Demons Records)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://innerdemonsrecords.bandcamp.com/album/string-theory-2-ind241g</id>
-    <link rel="alternate" type="text/html" href="https://innerdemonsrecords.bandcamp.com/album/string-theory-2-ind241g"/>
-    <author>
-      <name>Audible Masticators (Inner Demons Records)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2908830067_23.jpg' /&gt;&lt;br/&gt;Audible Masticators - String Theory 2 [IND241G] (Inner Demons Records)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2908830067_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Hidden Rhythms - Myca$h - Deterministic EP</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://hiddenrhythmsrec.bandcamp.com/album/myca-h-deterministic-ep</id>
-    <link rel="alternate" type="text/html" href="https://hiddenrhythmsrec.bandcamp.com/album/myca-h-deterministic-ep"/>
-    <author>
-      <name>Hidden Rhythms</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2411106474_23.jpg' /&gt;&lt;br/&gt;Hidden Rhythms - Myca$h - Deterministic EP</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2411106474_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">DPR RECORDINGS - Groove chronicles 2 Deep/ B the same 2step instrumentals Uk Garage instrumentals [NEW]</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://dprrecordings.bandcamp.com/album/groove-chronicles-2-deep-b-the-same-2step-instrumentals-uk-garage-instrumentals-new</id>
-    <link rel="alternate" type="text/html" href="https://dprrecordings.bandcamp.com/album/groove-chronicles-2-deep-b-the-same-2step-instrumentals-uk-garage-instrumentals-new"/>
-    <author>
-      <name>DPR RECORDINGS</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a560903547_23.jpg' /&gt;&lt;br/&gt;DPR RECORDINGS - Groove chronicles 2 Deep/ B the same 2step instrumentals Uk Garage instrumentals [NEW]</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a560903547_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">DPR RECORDINGS - Groove Chronicles Black Nite/Green Dreams Uk Garage Instrumental [NEW]</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://dprrecordings.bandcamp.com/album/groove-chronicles-black-nite-green-dreams-uk-garage-instrumental-new</id>
-    <link rel="alternate" type="text/html" href="https://dprrecordings.bandcamp.com/album/groove-chronicles-black-nite-green-dreams-uk-garage-instrumental-new"/>
-    <author>
-      <name>DPR RECORDINGS</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1577349659_23.jpg' /&gt;&lt;br/&gt;DPR RECORDINGS - Groove Chronicles Black Nite/Green Dreams Uk Garage Instrumental [NEW]</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1577349659_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Rainbow Bridge Vibratory Color / Sound Experiment - Woodstock Nation</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/woodstock-nation</id>
-    <link rel="alternate" type="text/html" href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/woodstock-nation"/>
-    <author>
-      <name>Rainbow Bridge Vibratory Color / Sound Experiment</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a4087490535_23.jpg' /&gt;&lt;br/&gt;Rainbow Bridge Vibratory Color / Sound Experiment - Woodstock Nation</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a4087490535_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Rainbow Bridge Vibratory Color / Sound Experiment - Acid Dreams</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/acid-dreams</id>
-    <link rel="alternate" type="text/html" href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/acid-dreams"/>
-    <author>
-      <name>Rainbow Bridge Vibratory Color / Sound Experiment</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2630551539_23.jpg' /&gt;&lt;br/&gt;Rainbow Bridge Vibratory Color / Sound Experiment - Acid Dreams</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2630551539_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Rainbow Bridge Vibratory Color / Sound Experiment - From Chocolate to Morphine</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/from-chocolate-to-morphine</id>
-    <link rel="alternate" type="text/html" href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/from-chocolate-to-morphine"/>
-    <author>
-      <name>Rainbow Bridge Vibratory Color / Sound Experiment</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1045597098_23.jpg' /&gt;&lt;br/&gt;Rainbow Bridge Vibratory Color / Sound Experiment - From Chocolate to Morphine</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1045597098_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">DJ 소맥 - DJ 소맥 - 드릴 세션 7 (Il Padrino Records)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://ilpadrinorecords.bandcamp.com/album/dj-7-3</id>
-    <link rel="alternate" type="text/html" href="https://ilpadrinorecords.bandcamp.com/album/dj-7-3"/>
-    <author>
-      <name>DJ 소맥 (Il Padrino Records)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a22079819_23.jpg' /&gt;&lt;br/&gt;DJ 소맥 - DJ 소맥 - 드릴 세션 7 (Il Padrino Records)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a22079819_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Douvelle19 - Love Me Not (Remixes)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://douvelle19.bandcamp.com/album/love-me-not-remixes</id>
-    <link rel="alternate" type="text/html" href="https://douvelle19.bandcamp.com/album/love-me-not-remixes"/>
-    <author>
-      <name>Douvelle19</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1126513635_23.jpg' /&gt;&lt;br/&gt;Douvelle19 - Love Me Not (Remixes)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1126513635_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Brianna Paon - Hot Mess / Incubator [BMR-004]</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004</id>
-    <link rel="alternate" type="text/html" href="https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004"/>
-    <author>
-      <name>Brianna Paon</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2461039313_23.jpg' /&gt;&lt;br/&gt;Brianna Paon - Hot Mess / Incubator [BMR-004]</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2461039313_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Albino Sound - Chewy Ground</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://albinosoundtokyo.bandcamp.com/album/chewy-ground</id>
-    <link rel="alternate" type="text/html" href="https://albinosoundtokyo.bandcamp.com/album/chewy-ground"/>
-    <author>
-      <name>Albino Sound</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2793702073_23.jpg' /&gt;&lt;br/&gt;Albino Sound - Chewy Ground</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2793702073_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">The Source of Time / Ivory Tower Studio - Scientific Moments (Compilation)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://thesourceoftime.bandcamp.com/album/scientific-moments-compilation</id>
-    <link rel="alternate" type="text/html" href="https://thesourceoftime.bandcamp.com/album/scientific-moments-compilation"/>
-    <author>
-      <name>The Source of Time / Ivory Tower Studio</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3731402586_23.jpg' /&gt;&lt;br/&gt;The Source of Time / Ivory Tower Studio - Scientific Moments (Compilation)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3731402586_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">CALAGAD 13 - Go Off (COSMIC TRIBE)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
-    <id>https://cosmictribe.bandcamp.com/album/go-off</id>
-    <link rel="alternate" type="text/html" href="https://cosmictribe.bandcamp.com/album/go-off"/>
-    <author>
-      <name>CALAGAD 13 (COSMIC TRIBE)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3876427810_23.jpg' /&gt;&lt;br/&gt;CALAGAD 13 - Go Off (COSMIC TRIBE)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3876427810_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Mx. Blaire - Cherry Tapes 001 - PH Tape (Cherry Tapes)</title>
-    <published>2025-07-01T13:51:56+00:00</published>
-    <updated>2025-07-01T13:51:56+00:00</updated>
     <id>https://cherrytapes.bandcamp.com/album/cherry-tapes-001-ph-tape</id>
-    <link rel="alternate" type="text/html" href="https://cherrytapes.bandcamp.com/album/cherry-tapes-001-ph-tape"/>
+    <title>Mx. Blaire - Cherry Tapes 001 - PH Tape (Cherry Tapes)</title>
+    <updated>2025-07-01T14:29:21.876963+00:00</updated>
     <author>
       <name>Mx. Blaire (Cherry Tapes)</name>
     </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a679034292_23.jpg' /&gt;&lt;br/&gt;Mx. Blaire - Cherry Tapes 001 - PH Tape (Cherry Tapes)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a679034292_16.jpg"/>
+    <content type="CDATA"><![CDATA[<a href="https://cherrytapes.bandcamp.com/album/cherry-tapes-001-ph-tape"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://cherrytapes.bandcamp.com/album/cherry-tapes-001-ph-tape"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://cosmictribe.bandcamp.com/album/go-off</id>
+    <title>CALAGAD 13 - Go Off (COSMIC TRIBE)</title>
+    <updated>2025-07-01T14:29:21.275006+00:00</updated>
+    <author>
+      <name>CALAGAD 13 (COSMIC TRIBE)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://cosmictribe.bandcamp.com/album/go-off"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://cosmictribe.bandcamp.com/album/go-off"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://thesourceoftime.bandcamp.com/album/scientific-moments-compilation</id>
+    <title>The Source of Time / Ivory Tower Studio - Scientific Moments (Compilation)</title>
+    <updated>2025-07-01T14:29:20.676603+00:00</updated>
+    <author>
+      <name>The Source of Time / Ivory Tower Studio</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://thesourceoftime.bandcamp.com/album/scientific-moments-compilation"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://thesourceoftime.bandcamp.com/album/scientific-moments-compilation"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://albinosoundtokyo.bandcamp.com/album/chewy-ground</id>
+    <title>Albino Sound - Chewy Ground</title>
+    <updated>2025-07-01T14:29:20.144109+00:00</updated>
+    <author>
+      <name>Albino Sound</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://albinosoundtokyo.bandcamp.com/album/chewy-ground"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://albinosoundtokyo.bandcamp.com/album/chewy-ground"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004</id>
+    <title>Brianna Paon - Hot Mess / Incubator [BMR-004]</title>
+    <updated>2025-07-01T14:29:19.615238+00:00</updated>
+    <author>
+      <name>Brianna Paon</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://briannapaon.bandcamp.com/album/hot-mess-incubator-bmr-004"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://douvelle19.bandcamp.com/album/love-me-not-remixes</id>
+    <title>Douvelle19 - Love Me Not (Remixes)</title>
+    <updated>2025-07-01T14:29:19.011099+00:00</updated>
+    <author>
+      <name>Douvelle19</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://douvelle19.bandcamp.com/album/love-me-not-remixes"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://douvelle19.bandcamp.com/album/love-me-not-remixes"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ilpadrinorecords.bandcamp.com/album/dj-7-3</id>
+    <title>DJ 소맥 - DJ 소맥 - 드릴 세션 7 (Il Padrino Records)</title>
+    <updated>2025-07-01T14:29:18.412583+00:00</updated>
+    <author>
+      <name>DJ 소맥 (Il Padrino Records)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://ilpadrinorecords.bandcamp.com/album/dj-7-3"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://ilpadrinorecords.bandcamp.com/album/dj-7-3"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/from-chocolate-to-morphine</id>
+    <title>Rainbow Bridge Vibratory Color / Sound Experiment - From Chocolate to Morphine</title>
+    <updated>2025-07-01T14:29:17.844683+00:00</updated>
+    <author>
+      <name>Rainbow Bridge Vibratory Color / Sound Experiment</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/from-chocolate-to-morphine"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/from-chocolate-to-morphine"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/acid-dreams</id>
+    <title>Rainbow Bridge Vibratory Color / Sound Experiment - Acid Dreams</title>
+    <updated>2025-07-01T14:29:17.271742+00:00</updated>
+    <author>
+      <name>Rainbow Bridge Vibratory Color / Sound Experiment</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/acid-dreams"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/acid-dreams"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/woodstock-nation</id>
+    <title>Rainbow Bridge Vibratory Color / Sound Experiment - Woodstock Nation</title>
+    <updated>2025-07-01T14:29:16.749620+00:00</updated>
+    <author>
+      <name>Rainbow Bridge Vibratory Color / Sound Experiment</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/woodstock-nation"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://rainbow-bridge-vibratory-color-sound-experiment.bandcamp.com/album/woodstock-nation"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dprrecordings.bandcamp.com/album/groove-chronicles-black-nite-green-dreams-uk-garage-instrumental-new</id>
+    <title>DPR RECORDINGS - Groove Chronicles Black Nite/Green Dreams Uk Garage Instrumental [NEW]</title>
+    <updated>2025-07-01T14:29:16.226183+00:00</updated>
+    <author>
+      <name>DPR RECORDINGS</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://dprrecordings.bandcamp.com/album/groove-chronicles-black-nite-green-dreams-uk-garage-instrumental-new"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://dprrecordings.bandcamp.com/album/groove-chronicles-black-nite-green-dreams-uk-garage-instrumental-new"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://dprrecordings.bandcamp.com/album/groove-chronicles-2-deep-b-the-same-2step-instrumentals-uk-garage-instrumentals-new</id>
+    <title>DPR RECORDINGS - Groove chronicles 2 Deep/ B the same 2step instrumentals Uk Garage instrumentals [NEW]</title>
+    <updated>2025-07-01T14:29:15.709039+00:00</updated>
+    <author>
+      <name>DPR RECORDINGS</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://dprrecordings.bandcamp.com/album/groove-chronicles-2-deep-b-the-same-2step-instrumentals-uk-garage-instrumentals-new"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://dprrecordings.bandcamp.com/album/groove-chronicles-2-deep-b-the-same-2step-instrumentals-uk-garage-instrumentals-new"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hiddenrhythmsrec.bandcamp.com/album/myca-h-deterministic-ep</id>
+    <title>Hidden Rhythms - Myca$h - Deterministic EP</title>
+    <updated>2025-07-01T14:29:15.103353+00:00</updated>
+    <author>
+      <name>Hidden Rhythms</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://hiddenrhythmsrec.bandcamp.com/album/myca-h-deterministic-ep"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://hiddenrhythmsrec.bandcamp.com/album/myca-h-deterministic-ep"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://innerdemonsrecords.bandcamp.com/album/string-theory-2-ind241g</id>
+    <title>Audible Masticators - String Theory 2 [IND241G] (Inner Demons Records)</title>
+    <updated>2025-07-01T14:29:14.529512+00:00</updated>
+    <author>
+      <name>Audible Masticators (Inner Demons Records)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://innerdemonsrecords.bandcamp.com/album/string-theory-2-ind241g"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://innerdemonsrecords.bandcamp.com/album/string-theory-2-ind241g"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://silverag.bandcamp.com/album/forge</id>
+    <title>SILVER AG - FORGE</title>
+    <updated>2025-07-01T14:29:13.927766+00:00</updated>
+    <author>
+      <name>SILVER AG</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://silverag.bandcamp.com/album/forge"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://silverag.bandcamp.com/album/forge"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://volatilesoundscapes.bandcamp.com/album/onslaught</id>
+    <title>Molly Ruin - ONSLAUGHT (VolatileSoundscapes)</title>
+    <updated>2025-07-01T14:29:13.362560+00:00</updated>
+    <author>
+      <name>Molly Ruin (VolatileSoundscapes)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://volatilesoundscapes.bandcamp.com/album/onslaught"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://volatilesoundscapes.bandcamp.com/album/onslaught"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://254scienceandresearch.bandcamp.com/album/renegade-science</id>
+    <title>V/A - Renegade Science (254 Science and Research)</title>
+    <updated>2025-07-01T14:29:12.760919+00:00</updated>
+    <author>
+      <name>V/A (254 Science and Research)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://254scienceandresearch.bandcamp.com/album/renegade-science"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://254scienceandresearch.bandcamp.com/album/renegade-science"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jdotorb.bandcamp.com/album/rip-jake</id>
+    <title>j.orb - rip jake</title>
+    <updated>2025-07-01T14:29:12.227258+00:00</updated>
+    <author>
+      <name>j.orb</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://jdotorb.bandcamp.com/album/rip-jake"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://jdotorb.bandcamp.com/album/rip-jake"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://placedubs.bandcamp.com/album/over</id>
+    <title>Place - Over</title>
+    <updated>2025-07-01T14:29:11.648505+00:00</updated>
+    <author>
+      <name>Place</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://placedubs.bandcamp.com/album/over"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://placedubs.bandcamp.com/album/over"/>
+    <published>2025-07-01T14:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://desgreg.bandcamp.com/album/vibes</id>
+    <title>Synth + Drum - Vibes (Des Greg)</title>
+    <updated>2025-07-01T14:29:11.041068+00:00</updated>
+    <author>
+      <name>Synth + Drum (Des Greg)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://desgreg.bandcamp.com/album/vibes"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://desgreg.bandcamp.com/album/vibes"/>
+    <published>2025-07-01T14:29:10+00:00</published>
   </entry>
 </feed>

@@ -1,253 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">140 - Bandcamp Tag</title>
-  <link rel="alternate" type="text/html" href="https://bandcamp.com/tag/140?sort_field=date"/>
-  <link rel="self" type="application/atom+xml" href="http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=140&amp;format=Atom"/>
-  <icon>https://s4.bcbits.com/img/bc_favicon.ico</icon>
-  <logo>https://s4.bcbits.com/img/bc_favicon.ico</logo>
-  <id>http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=140&amp;format=Atom</id>
-  <updated>2025-07-01T13:52:12+00:00</updated>
-  <author>
-    <name>RSS-Bridge</name>
-  </author>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://bandcamp.com/tag/140</id>
+  <title>Bandcamp – 140 (latest)</title>
+  <updated>2025-07-01T14:30:34.174621+00:00</updated>
+  <link href="https://bandcamp.com/tag/140" rel="alternate"/>
+  <generator>GitHub Actions + feedgen</generator>
+  <subtitle>Newest Bandcamp releases for “140”</subtitle>
   <entry>
-    <title type="html">gigala - goose crossing your way</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://gigala.bandcamp.com/album/goose-crossing-your-way</id>
-    <link rel="alternate" type="text/html" href="https://gigala.bandcamp.com/album/goose-crossing-your-way"/>
-    <author>
-      <name>gigala</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2989439995_23.jpg' /&gt;&lt;br/&gt;gigala - goose crossing your way</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2989439995_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Heyoka - Vol. 2</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://heyokaukg.bandcamp.com/album/vol-2-3</id>
-    <link rel="alternate" type="text/html" href="https://heyokaukg.bandcamp.com/album/vol-2-3"/>
-    <author>
-      <name>Heyoka</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a771992159_23.jpg' /&gt;&lt;br/&gt;Heyoka - Vol. 2</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a771992159_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">VA - DUPLOC//002 (DUPLOC)</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://duploc.bandcamp.com/album/duploc-002</id>
-    <link rel="alternate" type="text/html" href="https://duploc.bandcamp.com/album/duploc-002"/>
-    <author>
-      <name>VA (DUPLOC)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a954191757_23.jpg' /&gt;&lt;br/&gt;VA - DUPLOC//002 (DUPLOC)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a954191757_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Flip Collective - SB003</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://flipcollective.bandcamp.com/album/sb003</id>
-    <link rel="alternate" type="text/html" href="https://flipcollective.bandcamp.com/album/sb003"/>
-    <author>
-      <name>Flip Collective</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2711808878_23.jpg' /&gt;&lt;br/&gt;Flip Collective - SB003</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2711808878_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Torre - Materials Volume. 03</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://torrexvi.bandcamp.com/album/materials-volume-03</id>
-    <link rel="alternate" type="text/html" href="https://torrexvi.bandcamp.com/album/materials-volume-03"/>
-    <author>
-      <name>Torre</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3605389326_23.jpg' /&gt;&lt;br/&gt;Torre - Materials Volume. 03</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3605389326_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Drum Pusher Recordings &amp; Outsource Records - DRUM051: malia - Rhythm Foundation The remixes</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://drumpusher-and-outsource.bandcamp.com/album/drum051-malia-rhythm-foundation-the-remixes</id>
-    <link rel="alternate" type="text/html" href="https://drumpusher-and-outsource.bandcamp.com/album/drum051-malia-rhythm-foundation-the-remixes"/>
-    <author>
-      <name>Drum Pusher Recordings &amp; Outsource Records</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a615127436_23.jpg' /&gt;&lt;br/&gt;Drum Pusher Recordings &amp; Outsource Records - DRUM051: malia - Rhythm Foundation The remixes</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a615127436_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Substrada - Lux Cannon / Scapeshift (Scandal Sounds)</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://scandalsoundsuk.bandcamp.com/album/lux-cannon-scapeshift</id>
-    <link rel="alternate" type="text/html" href="https://scandalsoundsuk.bandcamp.com/album/lux-cannon-scapeshift"/>
-    <author>
-      <name>Substrada (Scandal Sounds)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a61746918_23.jpg' /&gt;&lt;br/&gt;Substrada - Lux Cannon / Scapeshift (Scandal Sounds)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a61746918_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">EAZUP - THE PRESSURE</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://eazup.bandcamp.com/album/the-pressure-2</id>
-    <link rel="alternate" type="text/html" href="https://eazup.bandcamp.com/album/the-pressure-2"/>
-    <author>
-      <name>EAZUP</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a4069886823_23.jpg' /&gt;&lt;br/&gt;EAZUP - THE PRESSURE</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a4069886823_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Drum Pusher Recordings &amp; Outsource Records - 0SR002: Various Artists - Pathogenics Archive 001</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://drumpusher-and-outsource.bandcamp.com/album/0sr002-various-artists-pathogenics-archive-001</id>
-    <link rel="alternate" type="text/html" href="https://drumpusher-and-outsource.bandcamp.com/album/0sr002-various-artists-pathogenics-archive-001"/>
-    <author>
-      <name>Drum Pusher Recordings &amp; Outsource Records</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2168524152_23.jpg' /&gt;&lt;br/&gt;Drum Pusher Recordings &amp; Outsource Records - 0SR002: Various Artists - Pathogenics Archive 001</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2168524152_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Sempra - Nowhere To Be Found</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://sempra.bandcamp.com/album/nowhere-to-be-found</id>
-    <link rel="alternate" type="text/html" href="https://sempra.bandcamp.com/album/nowhere-to-be-found"/>
-    <author>
-      <name>Sempra</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a4163228911_23.jpg' /&gt;&lt;br/&gt;Sempra - Nowhere To Be Found</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a4163228911_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">BIG E-D X GRINDHOUSE - The Reckoning (GRiNDHOUSE)</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://grindhousemusicuk.bandcamp.com/album/the-reckoning</id>
-    <link rel="alternate" type="text/html" href="https://grindhousemusicuk.bandcamp.com/album/the-reckoning"/>
-    <author>
-      <name>BIG E-D X GRINDHOUSE (GRiNDHOUSE)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3102330284_23.jpg' /&gt;&lt;br/&gt;BIG E-D X GRINDHOUSE - The Reckoning (GRiNDHOUSE)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3102330284_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Newforyu - Untitled 3</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://newforyu.bandcamp.com/album/untitled-3</id>
-    <link rel="alternate" type="text/html" href="https://newforyu.bandcamp.com/album/untitled-3"/>
-    <author>
-      <name>Newforyu</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3291068842_23.jpg' /&gt;&lt;br/&gt;Newforyu - Untitled 3</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3291068842_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Cam Lasky - MOLLY MILLIONS (KWAIOTO Records)</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://kwaioto.bandcamp.com/album/molly-millions</id>
-    <link rel="alternate" type="text/html" href="https://kwaioto.bandcamp.com/album/molly-millions"/>
-    <author>
-      <name>Cam Lasky (KWAIOTO Records)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3765324505_23.jpg' /&gt;&lt;br/&gt;Cam Lasky - MOLLY MILLIONS (KWAIOTO Records)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3765324505_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">BRUX - Talk 2 Me EP</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://brux-hk.bandcamp.com/album/talk-2-me-ep</id>
-    <link rel="alternate" type="text/html" href="https://brux-hk.bandcamp.com/album/talk-2-me-ep"/>
-    <author>
-      <name>BRUX</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a4284836827_23.jpg' /&gt;&lt;br/&gt;BRUX - Talk 2 Me EP</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a4284836827_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Hyan - We Mustn't</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://hyan4010.bandcamp.com/album/we-mustnt</id>
-    <link rel="alternate" type="text/html" href="https://hyan4010.bandcamp.com/album/we-mustnt"/>
-    <author>
-      <name>Hyan</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1597365266_23.jpg' /&gt;&lt;br/&gt;Hyan - We Mustn't</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1597365266_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Wolvie - Night Of The Lone Wolf</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://wolviebeats.bandcamp.com/album/night-of-the-lone-wolf</id>
-    <link rel="alternate" type="text/html" href="https://wolviebeats.bandcamp.com/album/night-of-the-lone-wolf"/>
-    <author>
-      <name>Wolvie</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3644646645_23.jpg' /&gt;&lt;br/&gt;Wolvie - Night Of The Lone Wolf</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3644646645_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Reflection Free Zone - OTT Homeworks (Fast Fame Records)</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://fastfamerecords.bandcamp.com/album/ott-homeworks</id>
-    <link rel="alternate" type="text/html" href="https://fastfamerecords.bandcamp.com/album/ott-homeworks"/>
-    <author>
-      <name>Reflection Free Zone (Fast Fame Records)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1409983279_23.jpg' /&gt;&lt;br/&gt;Reflection Free Zone - OTT Homeworks (Fast Fame Records)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1409983279_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">OSCAT! - Main Character / Characterized Aura</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://oscat.bandcamp.com/album/main-character-characterized-aura</id>
-    <link rel="alternate" type="text/html" href="https://oscat.bandcamp.com/album/main-character-characterized-aura"/>
-    <author>
-      <name>OSCAT!</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a980780263_23.jpg' /&gt;&lt;br/&gt;OSCAT! - Main Character / Characterized Aura</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a980780263_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Lim Lam - Scatter VS Unity EP</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
-    <id>https://limlam.bandcamp.com/album/scatter-vs-unity-ep</id>
-    <link rel="alternate" type="text/html" href="https://limlam.bandcamp.com/album/scatter-vs-unity-ep"/>
-    <author>
-      <name>Lim Lam</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a122928925_23.jpg' /&gt;&lt;br/&gt;Lim Lam - Scatter VS Unity EP</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a122928925_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Hamdi - Abomination EP</title>
-    <published>2025-07-01T13:52:12+00:00</published>
-    <updated>2025-07-01T13:52:12+00:00</updated>
     <id>https://hamdimusic.bandcamp.com/album/abomination-ep</id>
-    <link rel="alternate" type="text/html" href="https://hamdimusic.bandcamp.com/album/abomination-ep"/>
+    <title>Hamdi - Abomination EP</title>
+    <updated>2025-07-01T14:30:45.159033+00:00</updated>
     <author>
       <name>Hamdi</name>
     </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1974269176_23.jpg' /&gt;&lt;br/&gt;Hamdi - Abomination EP</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1974269176_16.jpg"/>
+    <content type="CDATA"><![CDATA[<a href="https://hamdimusic.bandcamp.com/album/abomination-ep"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://hamdimusic.bandcamp.com/album/abomination-ep"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://limlam.bandcamp.com/album/scatter-vs-unity-ep</id>
+    <title>Lim Lam - Scatter VS Unity EP</title>
+    <updated>2025-07-01T14:30:44.558250+00:00</updated>
+    <author>
+      <name>Lim Lam</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://limlam.bandcamp.com/album/scatter-vs-unity-ep"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://limlam.bandcamp.com/album/scatter-vs-unity-ep"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://oscat.bandcamp.com/album/main-character-characterized-aura</id>
+    <title>OSCAT! - Main Character / Characterized Aura</title>
+    <updated>2025-07-01T14:30:43.984312+00:00</updated>
+    <author>
+      <name>OSCAT!</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://oscat.bandcamp.com/album/main-character-characterized-aura"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://oscat.bandcamp.com/album/main-character-characterized-aura"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://fastfamerecords.bandcamp.com/album/ott-homeworks</id>
+    <title>Reflection Free Zone - OTT Homeworks (Fast Fame Records)</title>
+    <updated>2025-07-01T14:30:43.412911+00:00</updated>
+    <author>
+      <name>Reflection Free Zone (Fast Fame Records)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://fastfamerecords.bandcamp.com/album/ott-homeworks"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://fastfamerecords.bandcamp.com/album/ott-homeworks"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://wolviebeats.bandcamp.com/album/night-of-the-lone-wolf</id>
+    <title>Wolvie - Night Of The Lone Wolf</title>
+    <updated>2025-07-01T14:30:42.836286+00:00</updated>
+    <author>
+      <name>Wolvie</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://wolviebeats.bandcamp.com/album/night-of-the-lone-wolf"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://wolviebeats.bandcamp.com/album/night-of-the-lone-wolf"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://hyan4010.bandcamp.com/album/we-mustnt</id>
+    <title>Hyan - We Mustn't</title>
+    <updated>2025-07-01T14:30:42.261029+00:00</updated>
+    <author>
+      <name>Hyan</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://hyan4010.bandcamp.com/album/we-mustnt"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://hyan4010.bandcamp.com/album/we-mustnt"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://brux-hk.bandcamp.com/album/talk-2-me-ep</id>
+    <title>BRUX - Talk 2 Me EP</title>
+    <updated>2025-07-01T14:30:41.693985+00:00</updated>
+    <author>
+      <name>BRUX</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://brux-hk.bandcamp.com/album/talk-2-me-ep"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://brux-hk.bandcamp.com/album/talk-2-me-ep"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kwaioto.bandcamp.com/album/molly-millions</id>
+    <title>Cam Lasky - MOLLY MILLIONS (KWAIOTO Records)</title>
+    <updated>2025-07-01T14:30:41.092844+00:00</updated>
+    <author>
+      <name>Cam Lasky (KWAIOTO Records)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://kwaioto.bandcamp.com/album/molly-millions"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://kwaioto.bandcamp.com/album/molly-millions"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://newforyu.bandcamp.com/album/untitled-3</id>
+    <title>Newforyu - Untitled 3</title>
+    <updated>2025-07-01T14:30:40.515231+00:00</updated>
+    <author>
+      <name>Newforyu</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://newforyu.bandcamp.com/album/untitled-3"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://newforyu.bandcamp.com/album/untitled-3"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://grindhousemusicuk.bandcamp.com/album/the-reckoning</id>
+    <title>BIG E-D X GRINDHOUSE - The Reckoning (GRiNDHOUSE)</title>
+    <updated>2025-07-01T14:30:39.943970+00:00</updated>
+    <author>
+      <name>BIG E-D X GRINDHOUSE (GRiNDHOUSE)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://grindhousemusicuk.bandcamp.com/album/the-reckoning"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://grindhousemusicuk.bandcamp.com/album/the-reckoning"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://sempra.bandcamp.com/album/nowhere-to-be-found</id>
+    <title>Sempra - Nowhere To Be Found</title>
+    <updated>2025-07-01T14:30:39.411580+00:00</updated>
+    <author>
+      <name>Sempra</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://sempra.bandcamp.com/album/nowhere-to-be-found"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://sempra.bandcamp.com/album/nowhere-to-be-found"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://drumpusher-and-outsource.bandcamp.com/album/0sr002-various-artists-pathogenics-archive-001</id>
+    <title>Drum Pusher Recordings &amp; Outsource Records - 0SR002: Various Artists - Pathogenics Archive 001</title>
+    <updated>2025-07-01T14:30:38.833647+00:00</updated>
+    <author>
+      <name>Drum Pusher Recordings &amp; Outsource Records</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://drumpusher-and-outsource.bandcamp.com/album/0sr002-various-artists-pathogenics-archive-001"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://drumpusher-and-outsource.bandcamp.com/album/0sr002-various-artists-pathogenics-archive-001"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://eazup.bandcamp.com/album/the-pressure-2</id>
+    <title>EAZUP - THE PRESSURE</title>
+    <updated>2025-07-01T14:30:38.302200+00:00</updated>
+    <author>
+      <name>EAZUP</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://eazup.bandcamp.com/album/the-pressure-2"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://eazup.bandcamp.com/album/the-pressure-2"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://scandalsoundsuk.bandcamp.com/album/lux-cannon-scapeshift</id>
+    <title>Substrada - Lux Cannon / Scapeshift (Scandal Sounds)</title>
+    <updated>2025-07-01T14:30:37.694622+00:00</updated>
+    <author>
+      <name>Substrada (Scandal Sounds)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://scandalsoundsuk.bandcamp.com/album/lux-cannon-scapeshift"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://scandalsoundsuk.bandcamp.com/album/lux-cannon-scapeshift"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://drumpusher-and-outsource.bandcamp.com/album/drum051-malia-rhythm-foundation-the-remixes</id>
+    <title>Drum Pusher Recordings &amp; Outsource Records - DRUM051: malia - Rhythm Foundation The remixes</title>
+    <updated>2025-07-01T14:30:37.139383+00:00</updated>
+    <author>
+      <name>Drum Pusher Recordings &amp; Outsource Records</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://drumpusher-and-outsource.bandcamp.com/album/drum051-malia-rhythm-foundation-the-remixes"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://drumpusher-and-outsource.bandcamp.com/album/drum051-malia-rhythm-foundation-the-remixes"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://torrexvi.bandcamp.com/album/materials-volume-03</id>
+    <title>Torre - Materials Volume. 03</title>
+    <updated>2025-07-01T14:30:36.554637+00:00</updated>
+    <author>
+      <name>Torre</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://torrexvi.bandcamp.com/album/materials-volume-03"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://torrexvi.bandcamp.com/album/materials-volume-03"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://flipcollective.bandcamp.com/album/sb003</id>
+    <title>Flip Collective - SB003</title>
+    <updated>2025-07-01T14:30:35.922813+00:00</updated>
+    <author>
+      <name>Flip Collective</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://flipcollective.bandcamp.com/album/sb003"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://flipcollective.bandcamp.com/album/sb003"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://duploc.bandcamp.com/album/duploc-002</id>
+    <title>VA - DUPLOC//002 (DUPLOC)</title>
+    <updated>2025-07-01T14:30:35.345884+00:00</updated>
+    <author>
+      <name>VA (DUPLOC)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://duploc.bandcamp.com/album/duploc-002"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://duploc.bandcamp.com/album/duploc-002"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://heyokaukg.bandcamp.com/album/vol-2-3</id>
+    <title>Heyoka - Vol. 2</title>
+    <updated>2025-07-01T14:30:34.821526+00:00</updated>
+    <author>
+      <name>Heyoka</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://heyokaukg.bandcamp.com/album/vol-2-3"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://heyokaukg.bandcamp.com/album/vol-2-3"/>
+    <published>2025-07-01T14:30:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://gigala.bandcamp.com/album/goose-crossing-your-way</id>
+    <title>gigala - goose crossing your way</title>
+    <updated>2025-07-01T14:30:34.250320+00:00</updated>
+    <author>
+      <name>gigala</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://gigala.bandcamp.com/album/goose-crossing-your-way"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://gigala.bandcamp.com/album/goose-crossing-your-way"/>
+    <published>2025-07-01T14:30:33+00:00</published>
   </entry>
 </feed>

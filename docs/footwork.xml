@@ -1,253 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title type="text">footwork - Bandcamp Tag</title>
-  <link rel="alternate" type="text/html" href="https://bandcamp.com/tag/footwork?sort_field=date"/>
-  <link rel="self" type="application/atom+xml" href="http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=footwork&amp;format=Atom"/>
-  <icon>https://s4.bcbits.com/img/bc_favicon.ico</icon>
-  <logo>https://s4.bcbits.com/img/bc_favicon.ico</logo>
-  <id>http://rss-bridge.bb8.fun/?action=display&amp;bridge=Bandcamp&amp;tag=footwork&amp;format=Atom</id>
-  <updated>2025-07-01T13:52:15+00:00</updated>
-  <author>
-    <name>RSS-Bridge</name>
-  </author>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://bandcamp.com/tag/footwork</id>
+  <title>Bandcamp – footwork (latest)</title>
+  <updated>2025-07-01T14:30:48.143340+00:00</updated>
+  <link href="https://bandcamp.com/tag/footwork" rel="alternate"/>
+  <generator>GitHub Actions + feedgen</generator>
+  <subtitle>Newest Bandcamp releases for “footwork”</subtitle>
   <entry>
-    <title type="html">CRZKNY - ZAGAZA</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://crzkny.bandcamp.com/album/zagaza</id>
-    <link rel="alternate" type="text/html" href="https://crzkny.bandcamp.com/album/zagaza"/>
-    <author>
-      <name>CRZKNY</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3654879459_23.jpg' /&gt;&lt;br/&gt;CRZKNY - ZAGAZA</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3654879459_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">V/A - Renegade Science (254 Science and Research)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://254scienceandresearch.bandcamp.com/album/renegade-science</id>
-    <link rel="alternate" type="text/html" href="https://254scienceandresearch.bandcamp.com/album/renegade-science"/>
-    <author>
-      <name>V/A (254 Science and Research)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3449499818_23.jpg' /&gt;&lt;br/&gt;V/A - Renegade Science (254 Science and Research)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3449499818_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Satsuma - Makeitwork / Dance 4 me</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://satsumaa.bandcamp.com/album/makeitwork-dance-4-me</id>
-    <link rel="alternate" type="text/html" href="https://satsumaa.bandcamp.com/album/makeitwork-dance-4-me"/>
-    <author>
-      <name>Satsuma</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3207244004_23.jpg' /&gt;&lt;br/&gt;Satsuma - Makeitwork / Dance 4 me</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3207244004_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">DEIPHIX - SOUNDS FROM THE DEHUMANIZED FUTURE (Nicholas Carroll (⧉ vistaworld.org))</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://facechain.bandcamp.com/album/sounds-from-the-dehumanized-future</id>
-    <link rel="alternate" type="text/html" href="https://facechain.bandcamp.com/album/sounds-from-the-dehumanized-future"/>
-    <author>
-      <name>DEIPHIX (Nicholas Carroll (⧉ vistaworld.org))</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1502229541_23.jpg' /&gt;&lt;br/&gt;DEIPHIX - SOUNDS FROM THE DEHUMANIZED FUTURE (Nicholas Carroll (⧉ vistaworld.org))</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1502229541_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">URFQKZ - SLURMDAWG BILLIONAIRE (Big Sherm)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://bigsherm.bandcamp.com/album/slurmdawg-billionaire</id>
-    <link rel="alternate" type="text/html" href="https://bigsherm.bandcamp.com/album/slurmdawg-billionaire"/>
-    <author>
-      <name>URFQKZ (Big Sherm)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3536098118_23.jpg' /&gt;&lt;br/&gt;URFQKZ - SLURMDAWG BILLIONAIRE (Big Sherm)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3536098118_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Syú - RMGNTS004: Duquesa - Escolhe (Syú Reimagination)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://soundsbysyu.bandcamp.com/album/rmgnts004-duquesa-escolhe-sy-reimagination</id>
-    <link rel="alternate" type="text/html" href="https://soundsbysyu.bandcamp.com/album/rmgnts004-duquesa-escolhe-sy-reimagination"/>
-    <author>
-      <name>Syú</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3273136665_23.jpg' /&gt;&lt;br/&gt;Syú - RMGNTS004: Duquesa - Escolhe (Syú Reimagination)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3273136665_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Marc OFX - Marc OFX  Remixes of Bob Marley's Tunes</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://marcofx.bandcamp.com/album/marc-ofx-remixes-of-bob-marleys-tunes</id>
-    <link rel="alternate" type="text/html" href="https://marcofx.bandcamp.com/album/marc-ofx-remixes-of-bob-marleys-tunes"/>
-    <author>
-      <name>Marc OFX</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a4261214367_23.jpg' /&gt;&lt;br/&gt;Marc OFX - Marc OFX  Remixes of Bob Marley's Tunes</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a4261214367_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">osno1 - all day i dream about drake [EP] (seeking bust)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://jesusbelluci.bandcamp.com/album/all-day-i-dream-about-drake-ep</id>
-    <link rel="alternate" type="text/html" href="https://jesusbelluci.bandcamp.com/album/all-day-i-dream-about-drake-ep"/>
-    <author>
-      <name>osno1 (seeking bust)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3970738795_23.jpg' /&gt;&lt;br/&gt;osno1 - all day i dream about drake [EP] (seeking bust)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3970738795_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Vercetti - Rich Boston Richey - Help Me Juke Remix (Vercetti)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://vercetti9394.bandcamp.com/album/rich-boston-richey-help-me-juke-remix-vercetti</id>
-    <link rel="alternate" type="text/html" href="https://vercetti9394.bandcamp.com/album/rich-boston-richey-help-me-juke-remix-vercetti"/>
-    <author>
-      <name>Vercetti</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2633924295_23.jpg' /&gt;&lt;br/&gt;Vercetti - Rich Boston Richey - Help Me Juke Remix (Vercetti)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2633924295_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">SUIQE - SUIQE.COM</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://suiqe.bandcamp.com/album/suiqe-com</id>
-    <link rel="alternate" type="text/html" href="https://suiqe.bandcamp.com/album/suiqe-com"/>
-    <author>
-      <name>SUIQE</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1771977206_23.jpg' /&gt;&lt;br/&gt;SUIQE - SUIQE.COM</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1771977206_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">College Hill - Feminization Loops LP</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://collegehill.bandcamp.com/album/feminization-loops-lp</id>
-    <link rel="alternate" type="text/html" href="https://collegehill.bandcamp.com/album/feminization-loops-lp"/>
-    <author>
-      <name>College Hill</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2783454354_23.jpg' /&gt;&lt;br/&gt;College Hill - Feminization Loops LP</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2783454354_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">DJ Zoloft - GEEKIN OFF DA ZOLOFT JUKETAPE (#QUALITY)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://qualityboyz.bandcamp.com/album/geekin-off-da-zoloft-juketape</id>
-    <link rel="alternate" type="text/html" href="https://qualityboyz.bandcamp.com/album/geekin-off-da-zoloft-juketape"/>
-    <author>
-      <name>DJ Zoloft (#QUALITY)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a519824466_23.jpg' /&gt;&lt;br/&gt;DJ Zoloft - GEEKIN OFF DA ZOLOFT JUKETAPE (#QUALITY)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a519824466_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Actual - Why Can't I Stop Making Tech House / Tommy Coded Psy</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy</id>
-    <link rel="alternate" type="text/html" href="https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy"/>
-    <author>
-      <name>Actual</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1141344129_23.jpg' /&gt;&lt;br/&gt;Actual - Why Can't I Stop Making Tech House / Tommy Coded Psy</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1141344129_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">CLUB SOUTH - Club South presents Pop Trunk</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://majia.bandcamp.com/album/club-south-presents-pop-trunk</id>
-    <link rel="alternate" type="text/html" href="https://majia.bandcamp.com/album/club-south-presents-pop-trunk"/>
-    <author>
-      <name>CLUB SOUTH</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a1492071713_23.jpg' /&gt;&lt;br/&gt;CLUB SOUTH - Club South presents Pop Trunk</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a1492071713_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">St. Vivian - Bodies (On The Run)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://stvivian.bandcamp.com/album/bodies-on-the-run</id>
-    <link rel="alternate" type="text/html" href="https://stvivian.bandcamp.com/album/bodies-on-the-run"/>
-    <author>
-      <name>St. Vivian</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3318921575_23.jpg' /&gt;&lt;br/&gt;St. Vivian - Bodies (On The Run)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3318921575_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">MA - VWV (outlines)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://outlineslabel.bandcamp.com/album/vwv</id>
-    <link rel="alternate" type="text/html" href="https://outlineslabel.bandcamp.com/album/vwv"/>
-    <author>
-      <name>MA (outlines)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a2971806839_23.jpg' /&gt;&lt;br/&gt;MA - VWV (outlines)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a2971806839_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Father And Son Records And Tapes - FASRATⓍ sampler</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://fasrat.bandcamp.com/album/fasrat-sampler</id>
-    <link rel="alternate" type="text/html" href="https://fasrat.bandcamp.com/album/fasrat-sampler"/>
-    <author>
-      <name>Father And Son Records And Tapes</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3932379_23.jpg' /&gt;&lt;br/&gt;Father And Son Records And Tapes - FASRATⓍ sampler</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3932379_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">KOZYSTORM ⚡︎ - 1+1+1+1+1+1+1+1+1+1</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://kozystorm.bandcamp.com/album/1-1-1-1-1-1-1-1-1-1</id>
-    <link rel="alternate" type="text/html" href="https://kozystorm.bandcamp.com/album/1-1-1-1-1-1-1-1-1-1"/>
-    <author>
-      <name>KOZYSTORM ⚡︎</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a137821344_23.jpg' /&gt;&lt;br/&gt;KOZYSTORM ⚡︎ - 1+1+1+1+1+1+1+1+1+1</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a137821344_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">Jensen Interceptor - Interception (International Chrome)</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
-    <id>https://internationalchrome.bandcamp.com/album/interception</id>
-    <link rel="alternate" type="text/html" href="https://internationalchrome.bandcamp.com/album/interception"/>
-    <author>
-      <name>Jensen Interceptor (International Chrome)</name>
-    </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a3279758596_23.jpg' /&gt;&lt;br/&gt;Jensen Interceptor - Interception (International Chrome)</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a3279758596_16.jpg"/>
-  </entry>
-  <entry>
-    <title type="html">SaNTINO - Outsider Hypothesis</title>
-    <published>2025-07-01T13:52:15+00:00</published>
-    <updated>2025-07-01T13:52:15+00:00</updated>
     <id>https://speaksantino.bandcamp.com/album/outsider-hypothesis</id>
-    <link rel="alternate" type="text/html" href="https://speaksantino.bandcamp.com/album/outsider-hypothesis"/>
+    <title>SaNTINO - Outsider Hypothesis</title>
+    <updated>2025-07-01T14:30:59.100403+00:00</updated>
     <author>
       <name>SaNTINO</name>
     </author>
-    <content type="html">&lt;img src='https://f4.bcbits.com/img/a832758527_23.jpg' /&gt;&lt;br/&gt;SaNTINO - Outsider Hypothesis</content>
-    <link rel="enclosure" type="image/jpeg" href="https://f4.bcbits.com/img/a832758527_16.jpg"/>
+    <content type="CDATA"><![CDATA[<a href="https://speaksantino.bandcamp.com/album/outsider-hypothesis"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://speaksantino.bandcamp.com/album/outsider-hypothesis"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://internationalchrome.bandcamp.com/album/interception</id>
+    <title>Jensen Interceptor - Interception (International Chrome)</title>
+    <updated>2025-07-01T14:30:58.577302+00:00</updated>
+    <author>
+      <name>Jensen Interceptor (International Chrome)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://internationalchrome.bandcamp.com/album/interception"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://internationalchrome.bandcamp.com/album/interception"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://kozystorm.bandcamp.com/album/1-1-1-1-1-1-1-1-1-1</id>
+    <title>KOZYSTORM ⚡︎ - 1+1+1+1+1+1+1+1+1+1</title>
+    <updated>2025-07-01T14:30:58.052406+00:00</updated>
+    <author>
+      <name>KOZYSTORM ⚡︎</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://kozystorm.bandcamp.com/album/1-1-1-1-1-1-1-1-1-1"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://kozystorm.bandcamp.com/album/1-1-1-1-1-1-1-1-1-1"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://fasrat.bandcamp.com/album/fasrat-sampler</id>
+    <title>Father And Son Records And Tapes - FASRATⓍ sampler</title>
+    <updated>2025-07-01T14:30:57.529886+00:00</updated>
+    <author>
+      <name>Father And Son Records And Tapes</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://fasrat.bandcamp.com/album/fasrat-sampler"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://fasrat.bandcamp.com/album/fasrat-sampler"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://outlineslabel.bandcamp.com/album/vwv</id>
+    <title>MA - VWV (outlines)</title>
+    <updated>2025-07-01T14:30:56.941072+00:00</updated>
+    <author>
+      <name>MA (outlines)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://outlineslabel.bandcamp.com/album/vwv"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://outlineslabel.bandcamp.com/album/vwv"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://stvivian.bandcamp.com/album/bodies-on-the-run</id>
+    <title>St. Vivian - Bodies (On The Run)</title>
+    <updated>2025-07-01T14:30:56.364454+00:00</updated>
+    <author>
+      <name>St. Vivian</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://stvivian.bandcamp.com/album/bodies-on-the-run"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://stvivian.bandcamp.com/album/bodies-on-the-run"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://majia.bandcamp.com/album/club-south-presents-pop-trunk</id>
+    <title>CLUB SOUTH - Club South presents Pop Trunk</title>
+    <updated>2025-07-01T14:30:55.757542+00:00</updated>
+    <author>
+      <name>CLUB SOUTH</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://majia.bandcamp.com/album/club-south-presents-pop-trunk"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://majia.bandcamp.com/album/club-south-presents-pop-trunk"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy</id>
+    <title>Actual - Why Can't I Stop Making Tech House / Tommy Coded Psy</title>
+    <updated>2025-07-01T14:30:55.187307+00:00</updated>
+    <author>
+      <name>Actual</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://actualmusic.bandcamp.com/album/why-cant-i-stop-making-tech-house-tommy-coded-psy"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://qualityboyz.bandcamp.com/album/geekin-off-da-zoloft-juketape</id>
+    <title>DJ Zoloft - GEEKIN OFF DA ZOLOFT JUKETAPE (#QUALITY)</title>
+    <updated>2025-07-01T14:30:54.610476+00:00</updated>
+    <author>
+      <name>DJ Zoloft (#QUALITY)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://qualityboyz.bandcamp.com/album/geekin-off-da-zoloft-juketape"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://qualityboyz.bandcamp.com/album/geekin-off-da-zoloft-juketape"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://collegehill.bandcamp.com/album/feminization-loops-lp</id>
+    <title>College Hill - Feminization Loops LP</title>
+    <updated>2025-07-01T14:30:54.007575+00:00</updated>
+    <author>
+      <name>College Hill</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://collegehill.bandcamp.com/album/feminization-loops-lp"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://collegehill.bandcamp.com/album/feminization-loops-lp"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://suiqe.bandcamp.com/album/suiqe-com</id>
+    <title>SUIQE - SUIQE.COM</title>
+    <updated>2025-07-01T14:30:53.434906+00:00</updated>
+    <author>
+      <name>SUIQE</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://suiqe.bandcamp.com/album/suiqe-com"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://suiqe.bandcamp.com/album/suiqe-com"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://vercetti9394.bandcamp.com/album/rich-boston-richey-help-me-juke-remix-vercetti</id>
+    <title>Vercetti - Rich Boston Richey - Help Me Juke Remix (Vercetti)</title>
+    <updated>2025-07-01T14:30:52.910810+00:00</updated>
+    <author>
+      <name>Vercetti</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://vercetti9394.bandcamp.com/album/rich-boston-richey-help-me-juke-remix-vercetti"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://vercetti9394.bandcamp.com/album/rich-boston-richey-help-me-juke-remix-vercetti"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://jesusbelluci.bandcamp.com/album/all-day-i-dream-about-drake-ep</id>
+    <title>osno1 - all day i dream about drake [EP] (seeking bust)</title>
+    <updated>2025-07-01T14:30:52.339760+00:00</updated>
+    <author>
+      <name>osno1 (seeking bust)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://jesusbelluci.bandcamp.com/album/all-day-i-dream-about-drake-ep"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://jesusbelluci.bandcamp.com/album/all-day-i-dream-about-drake-ep"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://marcofx.bandcamp.com/album/marc-ofx-remixes-of-bob-marleys-tunes</id>
+    <title>Marc OFX - Marc OFX  Remixes of Bob Marley's Tunes</title>
+    <updated>2025-07-01T14:30:51.752190+00:00</updated>
+    <author>
+      <name>Marc OFX</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://marcofx.bandcamp.com/album/marc-ofx-remixes-of-bob-marleys-tunes"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://marcofx.bandcamp.com/album/marc-ofx-remixes-of-bob-marleys-tunes"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://soundsbysyu.bandcamp.com/album/rmgnts004-duquesa-escolhe-sy-reimagination</id>
+    <title>Syú - RMGNTS004: Duquesa - Escolhe (Syú Reimagination)</title>
+    <updated>2025-07-01T14:30:51.120270+00:00</updated>
+    <author>
+      <name>Syú</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://soundsbysyu.bandcamp.com/album/rmgnts004-duquesa-escolhe-sy-reimagination"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://soundsbysyu.bandcamp.com/album/rmgnts004-duquesa-escolhe-sy-reimagination"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://bigsherm.bandcamp.com/album/slurmdawg-billionaire</id>
+    <title>URFQKZ - SLURMDAWG BILLIONAIRE (Big Sherm)</title>
+    <updated>2025-07-01T14:30:50.587615+00:00</updated>
+    <author>
+      <name>URFQKZ (Big Sherm)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://bigsherm.bandcamp.com/album/slurmdawg-billionaire"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://bigsherm.bandcamp.com/album/slurmdawg-billionaire"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://facechain.bandcamp.com/album/sounds-from-the-dehumanized-future</id>
+    <title>DEIPHIX - SOUNDS FROM THE DEHUMANIZED FUTURE (Nicholas Carroll (⧉ vistaworld.org))</title>
+    <updated>2025-07-01T14:30:50.062532+00:00</updated>
+    <author>
+      <name>DEIPHIX (Nicholas Carroll (⧉ vistaworld.org))</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://facechain.bandcamp.com/album/sounds-from-the-dehumanized-future"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://facechain.bandcamp.com/album/sounds-from-the-dehumanized-future"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://satsumaa.bandcamp.com/album/makeitwork-dance-4-me</id>
+    <title>Satsuma - Makeitwork / Dance 4 me</title>
+    <updated>2025-07-01T14:30:49.462925+00:00</updated>
+    <author>
+      <name>Satsuma</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://satsumaa.bandcamp.com/album/makeitwork-dance-4-me"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://satsumaa.bandcamp.com/album/makeitwork-dance-4-me"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://254scienceandresearch.bandcamp.com/album/renegade-science</id>
+    <title>V/A - Renegade Science (254 Science and Research)</title>
+    <updated>2025-07-01T14:30:48.854713+00:00</updated>
+    <author>
+      <name>V/A (254 Science and Research)</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://254scienceandresearch.bandcamp.com/album/renegade-science"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://254scienceandresearch.bandcamp.com/album/renegade-science"/>
+    <published>2025-07-01T14:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://crzkny.bandcamp.com/album/zagaza</id>
+    <title>CRZKNY - ZAGAZA</title>
+    <updated>2025-07-01T14:30:48.214927+00:00</updated>
+    <author>
+      <name>CRZKNY</name>
+    </author>
+    <content type="CDATA"><![CDATA[<a href="https://crzkny.bandcamp.com/album/zagaza"><img src="" style="max-width:400px;height:auto;border:0;"></a><br/>]]></content>
+    <link href="https://crzkny.bandcamp.com/album/zagaza"/>
+    <published>2025-07-01T14:30:47+00:00</published>
   </entry>
 </feed>
