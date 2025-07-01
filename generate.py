@@ -64,7 +64,7 @@ for tag in TAGS:
     time.sleep(0.5)                         # garde la pause si tu l’avais
 
 
-    (OUT / f'{tag}.xml').write_bytes(fg.atom_str(pretty=True))
+    (OUT / f'{tag}.xml').write_bytes(fg.rss_str(pretty=True))
     time.sleep(1)            # petite pause entre tags
 
 print("✅ Feeds regenerated with embedded players.")
