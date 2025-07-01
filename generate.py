@@ -38,25 +38,31 @@ for tag in TAGS:
     fg.description(f'Newest Bandcamp releases for “{tag}”')
     fg.generator('GitHub Actions + feedgen')
 
-    for entry in feed.entries[:30]:          # limite à 30 items
-        link   = entry.link
-        title  = entry.title
-        author = getattr(entry, 'author', '')
-        pub_dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+    for entry in feed.entries[:30]:
+    link   = entry.link
+    title  = entry.title
+    author = getattr(entry, 'author', '')
+    pub_dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
 
-        art_url, iframe_html = scrape_album(link)
-        # Description : jaquette cliquable + iframe lecteur
-        description = f'<a href="{link}"><img src="{art_url}" ' \
-                      f'style="max-width:400px;height:auto;border:0;"></a><br/>{iframe_html}'
+    art_url, iframe_html = scrape_album(link)
 
-        fe = fg.add_entry()
-        fe.id(link)
-        fe.title(title)
-        fe.link(href=link)
-        fe.author({'name': author})
-        fe.published(pub_dt)
-        fe.content(description, type='CDATA')
-        time.sleep(0.5)      # politesse pour éviter les 429
+    # ⬇️ → HTML à insérer dans le flux ← ⬇️
+    html_block = (
+        f'<a href="{link}">'
+        f'<img src="{art_url}" style="max-width:400px;height:auto;border:0;"></a><br>'
+        f'{iframe_html}'
+    )
+
+    fe = fg.add_entry()
+    fe.id(link)
+    fe.title(title)
+    fe.link(href=link)
+    fe.author({'name': author})
+    fe.published(pub_dt)
+    fe.description(html_block)              # nouvelle ligne
+    fe.content(html_block, type="CDATA")    # nouvelle ligne
+    time.sleep(0.5)                         # garde la pause si tu l’avais
+
 
     (OUT / f'{tag}.xml').write_bytes(fg.atom_str(pretty=True))
     time.sleep(1)            # petite pause entre tags
