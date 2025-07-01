@@ -1,0 +1,18 @@
+name: build-feeds
+on:
+  workflow_dispatch:      # lancer manuellement
+  schedule:
+    - cron: "0 * * * *"   # chaque heure (UTC)
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests feedgen
+      - run: python generate.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update RSS feeds"
